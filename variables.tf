@@ -7,3 +7,5 @@ variable "region" {
 }
 
 variable "s3_bucket" {}
+
+variable "rds_password" {}
